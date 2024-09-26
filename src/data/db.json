@@ -1,0 +1,247 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Bluetooth Speaker",
+      "price": 29.99,
+      "description": "Portable speaker with excellent sound quality.",
+      "image": "https://via.placeholder.com/150/0000FF/808080?text=Bluetooth+Speaker",
+      "rating": 4.5
+    },
+    {
+      "id": "2",
+      "name": "Smart LED Bulb",
+      "price": 12.99,
+      "description": "Energy-efficient LED bulb with color changing feature.",
+      "image": "https://via.placeholder.com/150/FF0000/FFFFFF?text=Smart+LED+Bulb",
+      "rating": 4.2
+    },
+    {
+      "id": "3",
+      "name": "Office Chair",
+      "price": 199.99,
+      "description": "Ergonomic chair for comfortable seating.",
+      "image": "https://via.placeholder.com/150/00FF00/000000?text=Office+Chair",
+      "rating": 4.7
+    },
+    {
+      "id": "4",
+      "name": "Water Bottle",
+      "price": 19.99,
+      "description": "Stainless steel water bottle with insulation.",
+      "image": "https://via.placeholder.com/150/FFFF00/000000?text=Water+Bottle",
+      "rating": 4.8
+    },
+    {
+      "id": "5",
+      "name": "Headphones",
+      "price": 89.99,
+      "description": "Noise-cancelling headphones with deep bass.",
+      "image": "https://via.placeholder.com/150/FF00FF/FFFFFF?text=Headphones",
+      "rating": 4.6
+    },
+    {
+      "id": "6",
+      "name": "Yoga Mat",
+      "price": 25.99,
+      "description": "Non-slip yoga mat with extra cushioning.",
+      "image": "https://via.placeholder.com/150/00FFFF/000000?text=Yoga+Mat",
+      "rating": 4.3
+    },
+    {
+      "id": "7",
+      "name": "Smartphone Stand",
+      "price": 9.99,
+      "description": "Adjustable stand for smartphone viewing.",
+      "image": "https://via.placeholder.com/150/000000/FFFFFF?text=Smartphone+Stand",
+      "rating": 4.4
+    },
+    {
+      "id": "8",
+      "name": "Kitchen Scale",
+      "price": 14.99,
+      "description": "Digital kitchen scale with precision measurement.",
+      "image": "https://via.placeholder.com/150/FFA500/000000?text=Kitchen+Scale",
+      "rating": 4.5
+    },
+    {
+      "id": "9",
+      "name": "Leather Wallet",
+      "price": 34.99,
+      "description": "Classic leather wallet with multiple compartments.",
+      "image": "https://via.placeholder.com/150/800080/FFFFFF?text=Leather+Wallet",
+      "rating": 4.7
+    },
+    {
+      "id": "10",
+      "name": "Power Bank",
+      "price": 24.99,
+      "description": "Portable power bank with high capacity.",
+      "image": "https://via.placeholder.com/150/808080/000000?text=Power+Bank",
+      "rating": 4.6
+    },
+    {
+      "id": "11",
+      "name": "Wireless Mouse",
+      "price": 15.99,
+      "description": "Ergonomic wireless mouse with smooth control.",
+      "image": "https://via.placeholder.com/150/008000/FFFFFF?text=Wireless+Mouse",
+      "rating": 4.4
+    },
+    {
+      "id": "12",
+      "name": "Gaming Keyboard",
+      "price": 49.99,
+      "description": "Mechanical keyboard with customizable RGB lighting.",
+      "image": "https://via.placeholder.com/150/FF4500/FFFFFF?text=Gaming+Keyboard",
+      "rating": 4.8
+    },
+    {
+      "id": "13",
+      "name": "Fitness Tracker",
+      "price": 39.99,
+      "description": "Track your workouts and health metrics.",
+      "image": "https://via.placeholder.com/150/2F4F4F/FFFFFF?text=Fitness+Tracker",
+      "rating": 4.2
+    },
+    {
+      "id": "14",
+      "name": "Electric Kettle",
+      "price": 29.99,
+      "description": "Fast-boiling electric kettle with auto shut-off.",
+      "image": "https://via.placeholder.com/150/FFD700/000000?text=Electric+Kettle",
+      "rating": 4.5
+    },
+    {
+      "id": "15",
+      "name": "Sunglasses",
+      "price": 19.99,
+      "description": "Stylish sunglasses with UV protection.",
+      "image": "https://via.placeholder.com/150/000080/FFFFFF?text=Sunglasses",
+      "rating": 4.6
+    },
+    {
+      "id": "16",
+      "name": "Electric Toothbrush",
+      "price": 39.99,
+      "description": "Rechargeable toothbrush with multiple cleaning modes.",
+      "image": "https://via.placeholder.com/150/0000CD/FFFFFF?text=Electric+Toothbrush",
+      "rating": 4.7
+    },
+    {
+      "id": "17",
+      "name": "Vacuum Cleaner",
+      "price": 129.99,
+      "description": "High-power vacuum with HEPA filter.",
+      "image": "https://via.placeholder.com/150/228B22/FFFFFF?text=Vacuum+Cleaner",
+      "rating": 4.4
+    },
+    {
+      "id": "18",
+      "name": "Laptop Backpack",
+      "price": 59.99,
+      "description": "Durable backpack with padded laptop compartment.",
+      "image": "https://via.placeholder.com/150/8B4513/FFFFFF?text=Laptop+Backpack",
+      "rating": 4.5
+    },
+    {
+      "id": "19",
+      "name": "Cordless Drill",
+      "price": 49.99,
+      "description": "Versatile drill with multiple drill bits.",
+      "image": "https://via.placeholder.com/150/A52A2A/FFFFFF?text=Cordless+Drill",
+      "rating": 4.3
+    },
+    {
+      "id": "20",
+      "name": "Smart Home Hub",
+      "price": 99.99,
+      "description": "Control all your smart devices from one hub.",
+      "image": "https://via.placeholder.com/150/DC143C/FFFFFF?text=Smart+Home+Hub",
+      "rating": 4.7
+    },
+    {
+      "id": "43f0",
+      "name": "Piedra",
+      "price": "15",
+      "description": "una piedra. god.",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.vecteezy.com%2Fpng-gratis%2Fstone&psig=AOvVaw3hFgaa0BI_O6bWCkFJueDT&ust=1727441739469000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDFpo7U4IgDFQAAAAAdAAAAABAS"
+    },
+    {
+      "id": "c20b",
+      "name": "productotest",
+      "price": "500",
+      "description": "testing",
+      "image": "http://imagencheta.com"
+    },
+    {
+      "id": "90a1",
+      "name": "aver",
+      "price": "025",
+      "description": "asd",
+      "image": "asd"
+    }
+  ],
+  "users": [
+    {
+      "name": "John Doe",
+      "username": "johndoe",
+      "password": "password123",
+      "email": "johndoe@example.com"
+    },
+    {
+      "name": "Jane Smith",
+      "username": "janesmith",
+      "password": "password456",
+      "email": "janesmith@example.com"
+    },
+    {
+      "name": "Alice Johnson",
+      "username": "alicejohnson",
+      "password": "password789",
+      "email": "alicejohnson@example.com"
+    },
+    {
+      "name": "Bob Brown",
+      "username": "bobbrown",
+      "password": "password101",
+      "email": "bobbrown@example.com"
+    },
+    {
+      "name": "Charlie Davis",
+      "username": "charliedavis",
+      "password": "password102",
+      "email": "charliedavis@example.com"
+    },
+    {
+      "name": "Diana Evans",
+      "username": "dianaevans",
+      "password": "password103",
+      "email": "dianaevans@example.com"
+    },
+    {
+      "name": "Ethan Harris",
+      "username": "ethanharris",
+      "password": "password104",
+      "email": "ethanharris@example.com"
+    },
+    {
+      "name": "Fiona Green",
+      "username": "fionagreen",
+      "password": "password105",
+      "email": "fionagreen@example.com"
+    },
+    {
+      "name": "George Hill",
+      "username": "georgehill",
+      "password": "password106",
+      "email": "georgehill@example.com"
+    },
+    {
+      "name": "Hannah King",
+      "username": "hannahking",
+      "password": "password107",
+      "email": "hannahking@example.com"
+    }
+  ]
+}
